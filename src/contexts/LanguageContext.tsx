@@ -12,7 +12,7 @@ const translations = {
   fr: {
     // Header
     'nav.home': 'Accueil',
-    'nav.products': 'Products',
+    'nav.products': 'Produits',
     'nav.newProducts': 'Nouveautés',
     'nav.moments': 'Moments',
     'nav.distributor': 'Devenir distributeur',
@@ -83,19 +83,22 @@ const translations = {
     // Location
     'location.title': 'FAMICO Factory',
     'location.description': 'Retrouvez notre site de production et nos bureaux.',
+    'location.clickToOpen': 'Cliquez pour ouvrir dans Google Maps',
 
     // Footer
-    'footer.companyInfo': 'FAMICO GROUP<br />EURL FAMICO - ZONE INDUSTRIELLE N02 OULED MENDIL-DOUIRA -ALGER<br />Fax 021400102',
+    'footer.companyInfo': 'FAMICO GROUP',
+    'footer.address': 'EURL FAMICO - ZONE INDUSTRIELLE N02 OULED MENDIL-DOUIRA -ALGER',
+    'footer.fax': 'Fax 021400102',
     'footer.navigation': 'Navigation',
     'footer.information': 'Information',
     'footer.contact': 'Contact',
-    'footer.privacy': 'Privacy Policy',
-    'footer.cookies': 'Cookie Policy',
-    'footer.terms': 'Terms of Service',
-    'footer.sustainability': 'Sustainability',
-    'footer.payment': 'Payment Methods',
-    'footer.follow': 'Follow Us',
-    'footer.copyright': '© 2024 Segafredo famico Group. All rights reserved.',
+    'footer.privacy': 'Politique de confidentialité',
+    'footer.cookies': 'Politique des cookies',
+    'footer.terms': 'Conditions d\'utilisation',
+    'footer.sustainability': 'Développement durable',
+    'footer.payment': 'Moyens de paiement',
+    'footer.follow': 'Suivez-nous',
+    'footer.copyright': '© 2024 Segafredo famico Group. Tous droits réservés.',
   },
   en: {
     // Header
@@ -171,9 +174,12 @@ const translations = {
     // Location
     'location.title': 'FAMICO Factory',
     'location.description': 'Find our production site and offices.',
+    'location.clickToOpen': 'Click to open in Google Maps',
 
     // Footer
-    'footer.companyInfo': 'FAMICO GROUP<br />EURL FAMICO - ZONE INDUSTRIELLE N02 OULED MENDIL-DOUIRA -ALGER<br />Fax 021400102',
+    'footer.companyInfo': 'FAMICO GROUP',
+    'footer.address': 'EURL FAMICO - ZONE INDUSTRIELLE N02 OULED MENDIL-DOUIRA -ALGER',
+    'footer.fax': 'Fax 021400102',
     'footer.navigation': 'Navigation',
     'footer.information': 'Information',
     'footer.contact': 'Contact',
