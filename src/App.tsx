@@ -14,3 +14,5 @@
        <ProductsSection />
        <NewProductsSection />
        <MomentsSection />
+
+export default MomentsSection

@@ -168,3 +168,5 @@
 -                </p>
                </div>
              </div>
+
+export default React
